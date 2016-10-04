@@ -1,0 +1,22 @@
+{
+    "name": "devcode",
+    "title": "DevCode",
+    "description": "Simple & efficient.",
+    "homepage": "https://github.com/Brackets-Themes/DevCode",
+    "repository": {
+        "type": "git",
+        /* "url": "git@github.com:Brackets-Themes/DevCode.git",*/
+    },
+    "version": "1.0.0",
+    "author": "Christophe Duparquet (https://github.com/Artmendel)",,
+    "license": "MIT",
+        "engines": {
+        "brackets": ">=0.42.0"
+        },
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme","dark","devcode","artmendel"]
+}
